@@ -1,0 +1,7 @@
+cd Downloads\Lixx
+npm init -y
+npm install express socket.io
+node SERVER.js
+
+cd Desktop\Lixx
+node server.js
